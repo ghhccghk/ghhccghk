@@ -3,7 +3,7 @@
 #### 🐺 I like furry. My personal original character's name is Nightmare Yan.
 #### ❤  My hobby is tossing around all kinds of Linux development boards, all kinds of oddball Android devices and Windows device.
 
-![ghhccghk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghhccghk&show_icons=true&theme=radical)
+![ghhccghk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghhccghk&show_icons=true&theme=radical&hide_title=true)
 
 
 <!--
