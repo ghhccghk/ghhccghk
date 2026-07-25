@@ -7,7 +7,7 @@
 
 ![ghhccghk's GitHub stats](https://github-stats-extended.vercel.app/api?username=ghhccghk&show_icons=true&theme=radical&hide_title=true)
 
-[![GitHub Roast](https://githubroast.icu/api/card/ghhccghk)](https://githubroast.icu/u/ghhccghk)
+[![GitHub Roast](https://ghfind.com/api/card/ghhccghk?theme=dark)](https://ghfind.com/u/ghhccghk?ref=badge)
 
 ### 致中文用户
 ### 你好 👋
